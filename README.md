@@ -150,10 +150,16 @@ pytest
 
 ## References
 
-- Moody, G. B. & Mark, R. G. (2001). The impact of the MIT-BIH Arrhythmia
-  Database. *IEEE Engineering in Medicine and Biology Magazine*, 20(3), 45–50.
-- Tihonenko, V. et al. (2008). St Petersburg INCART 12-lead Arrhythmia
-  Database. PhysioNet.
+- Moody, G., & Mark, R. (2005). *MIT-BIH Arrhythmia Database* (version 1.0.0).
+  PhysioNet. RRID:SCR_007345.
+  [https://doi.org/10.13026/C2F305](https://doi.org/10.13026/C2F305).
+- Tihonenko, V., Khaustov, A., Ivanov, S., & Rivin, A. *St Petersburg INCART
+  12-lead Arrhythmia Database* (version 1.0.0). PhysioNet.
+  [https://physionet.org/content/incartdb/1.0.0/](https://physionet.org/content/incartdb/1.0.0/).
+- Pollard, T., Moody, B. E., Lehman, L., Gow, B., Fernandes, C., Xie, C.,
+  Johnson, A., Mark, R. G., & Heldt, T. (2026). PhysioNet as a global platform
+  for biomedical research. *Nature Health*. [https://doi.org/10.1038/s44360-026-00096-z](https://doi.org/10.1038/s44360-026-00096-z).
 
-Please also cite the dataset records according to their PhysioNet pages when
-publishing or sharing results.
+The MIT-BIH and INCART PhysioNet pages request the standard PhysioNet citation
+above. Cite the dataset records and versions above when publishing or sharing
+results, and follow any dataset-specific terms on the linked pages.
